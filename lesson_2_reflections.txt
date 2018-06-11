@@ -26,3 +26,5 @@ What is the result of merging two branches together? Why do we represent it in t
 having all the commits before them into one branch and organize them in chronological order. 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+automatic merging makes it easy to merge while there're no conflicts but with conflitcs manual meerging comes in handy.
