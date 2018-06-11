@@ -13,15 +13,16 @@ adding experimental features to the code or another langauge are examples of usi
 
 By checking git status we can make sure that we only ave one commit for each logical change that might affect the code in anyway.
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+adding new features, lagnauges, bug fixes on the side and ets
 
 How do the diagrams help you visualize the branch structure?
 
 It helps to see the scale of changes and accessibla and unacessible branches too.
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+having all the commits before them into one branch and organize them in chronological order. 
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
