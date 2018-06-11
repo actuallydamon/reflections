@@ -9,6 +9,8 @@ Staging area is a temporary solution for the commits that a user would like to s
 
 How can you use the staging area to make sure you have one commit per logical change?
 
+adding experimental features to the code or another langauge are examples of using branches.
+
 By checking git status we can make sure that we only ave one commit for each logical change that might affect the code in anyway.
 
 What are some situations when branches would be helpful in keeping your history
