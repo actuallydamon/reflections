@@ -8,10 +8,11 @@ automatically stay up-to-date with your remote repository?
 
     since repositories are public, it is better to check before pulling all the changes down to your local machine.
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-    Fill in your answer here
+	Forks are making a copy of a repository on your own while giving credit to the author. It won't affect the original after forking.
+
+	Clones are copying the repository from github on your local machine and changes won't affect the online version unless you "git push"
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
