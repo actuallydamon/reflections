@@ -24,7 +24,8 @@ How would you collaborate without using Git or GitHub?  What would be easier, an
     Using either emails or something like dropbox.
     I think since there would be no coding involved it would be a bit easier but having no commits or version control would make it unintelligable
     
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
+	
+	having different new features, adding stuff to the code.
 
-    Fill in your answer here
+	the benefits are that it will give time to the team to make sure everything is correct and clear and also it won't break the code.
